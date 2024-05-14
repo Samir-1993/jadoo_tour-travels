@@ -2178,6 +2178,11 @@
 .banner-item {
     padding-left: 0;
 } 
+
+.banner-button-wrapper{
+    justify-content: center;
+}
+
 .banner-button {
     margin-top: 40px;
     margin-left: 0;
